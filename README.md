@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SURAJ1ROY
-- 👀 I’m interested in Mathematics, Optimization algorithms, Data Science, AI, Neural Network
-- 🌱 I’m currently learning Metaheuristic Algorithms
+- 👀 I’m interested in Computational Mathematics, Optimization algorithms, Data Science, AI, Neural Network
+- 🌱 At present am working on Nature Inspired and Physical Science based Algorithms
 - 💞️ I’m looking to collaborate on Metaheuristic Algorithms, AI & Data Science 
 - 📫 How to reach me surajroy.mathematics@gmail.com
 - 😄 Pronouns: Sun
